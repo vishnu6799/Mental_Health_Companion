@@ -39,7 +39,7 @@ https://mentalhealthcompanion-dkxfrogkdmgu52xceudusu.streamlit.app/
 ## ⚡ Getting Started
 
 ### Prerequisites
-- Python >= 3.10
+- Python == 3.11
 
 ### Installation
 
