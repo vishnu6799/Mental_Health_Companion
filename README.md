@@ -1,4 +1,5 @@
 # 🧘 Mental Health Companion
+https://mentalhealthcompanion-dkxfrogkdmgu52xceudusu.streamlit.app/
 
 **Mental Health Companion** is an AI-powered web app that helps users understand, track, and manage their emotions in real time. It combines emotion detection, personalized coping strategies, and interactive mental wellness tools into a single platform.
 
